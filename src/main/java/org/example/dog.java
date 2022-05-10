@@ -2,6 +2,7 @@ package org.example;
 
 public class dog extends animal
 {
+    //123
     public int length_of_run,length_of_swim;
     public dog(String name,int length_of_run,int length_of_swim)
     {
